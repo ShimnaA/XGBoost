@@ -19,3 +19,14 @@
     
     - Best Accuracy: 90.67 %
     - Best Parameter  {'C': 0.5, 'gamma': 0.6, 'kernel': 'rbf'}
+
+***XG Boost***
+
+    - Dataset Breast Cancer dataset (class 2 or 4)
+    - Can be used for Regression and Classification
+    
+    - pip install xgboost
+    - Use the XGBClassifiera and train the model
+    - 97.8% Accuracy
+    - k-fold crossvalidation result in 96.53% accuracy with 2.63 variance
+    
